@@ -1,0 +1,30 @@
+body{
+  
+  display: block;
+    margin: 8px;
+    background-color: gainsboro;
+}
+h1,h2{
+  text-align: center;
+  color:rebeccapurple;
+}
+h1{
+  color:black;
+  font-weight: bold;
+}
+table{
+  border: 2px solid darkorchid;
+}
+.cls{
+  margin:auto;
+  
+  padding-bottom: 5px;
+}
+.bck{
+  background-color: plum;
+}
+td{
+  border-top: 1px solid darkorchid;
+
+}
+
